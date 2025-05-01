@@ -26,7 +26,7 @@ Here you’ll find code and tools developed as part of our research, including:
 - ABPO methodology implementations
 - Visualization utilities
 
-Explore all our repositories [here](https://github.com/CPostLab).
+Explore all our repositories [here](https://github.com/orgs/CPostLab/repositories).
 
 ---
 
