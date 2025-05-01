@@ -1,6 +1,6 @@
 # 🧬 Post Lab
 
-Welcome to the official GitHub organization of **Post Lab**!
+Welcome to the official GitHub organization of **Post Lab**,  based at **Purdue University**.
 
 We investigate the **internal dynamics, energetics, and intermolecular interactions of proteins** to better understand and manipulate their biological functions. Our research combines **solution NMR spectroscopy** and **molecular dynamics simulations** to probe protein systems at both macroscopic and microscopic levels.
 
@@ -13,6 +13,11 @@ We investigate the **internal dynamics, energetics, and intermolecular interacti
 - Mechanisms of **α-synuclein aggregation**
 
 ---
+## 🧑‍🔬 Principal Investigator
+
+**Carol Beth Post**, Ph.D.  
+Department of Medicinal Chemistry and Molecular Pharmacology  
+Purdue University
 
 ## 🛠 Tools & Code
 
