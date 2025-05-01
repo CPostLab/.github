@@ -21,10 +21,10 @@ Here you’ll find code and tools developed as part of our research, including:
 - ABPO methodology implementations
 - Visualization utilities
 
-Explore all our repositories [here](https://github.com/post-lab).
+Explore all our repositories [here](https://github.com/CPostLab).
 
 ---
 
 ## 📫 Contact
 
-Questions? Reach out via [issues](https://github.com/post-lab) or visit our [lab website](https://your-lab-website.edu) for more information.
+Questions? Reach out via [issues](https://github.com/CPostLab) or visit our [lab website](https://www.purdue.edu/postlab/) for more information.
