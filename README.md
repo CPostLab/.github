@@ -1,3 +1,3 @@
 # 🌐 POST Lab
 
-Welcome to the official GitHub organization for POSTLab
+Welcome to the official GitHub organization for POST Lab
