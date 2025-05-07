@@ -9,8 +9,8 @@ We investigate the **internal dynamics, energetics, and intermolecular interacti
 ## 🔍 Research Focus
 
 - Regulation of **protein tyrosine kinase** activity in signal transduction  
-- **Virus capsid dynamics**  
-- Mechanisms of **α-synuclein aggregation**
+- Estimating **thermodynamic properties** of protein  
+- Mechanisms of **prion** dynamics
 
 ---
 ## 🧑‍🔬 Principal Investigator
